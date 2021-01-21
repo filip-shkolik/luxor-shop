@@ -1,4 +1,4 @@
-# luxor-shop 🧣🧤
+# luxor-shop 🕶 👟👖👚
 
 https://filip-shkolik.github.io/luxor-shop/
 
